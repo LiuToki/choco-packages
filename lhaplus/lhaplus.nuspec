@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>lhaplus</id>
+    <title>Lhaplus</title>
+    <version>1.74</version>
+    <authors>Schezo</authors>
+    <owners>LiuToki</owners>
+    <summary>LHA/ZIP Archiver</summary>
+    <description>Lhaplus is an archiver for LZH/ZIP/CAB/RAR.</description>
+    <projectUrl>http://www7a.biglobe.ne.jp/~schezo/</projectUrl>
+    <tags>zip lha archiver</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www7a.biglobe.ne.jp/~schezo/ReadMe.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

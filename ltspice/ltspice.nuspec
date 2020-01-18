@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ltspice</id>
+    <title>LTspice</title>
+    <version>17.0</version>
+    <authors>ANALOG DEVICES</authors>
+    <owners>LiuToki</owners>
+    <summary>spice simulation software</summary>
+    <description>LTspice is spice simulation software.</description>
+    <projectUrl>https://www.analog.com/jp/design-center/design-tools-and-calculators/ltspice-simulator.html</projectUrl>
+    <tags>spice</tags>
+    <copyright></copyright>
+    <licenseUrl>https://www.analog.com/jp/design-center/design-tools-and-calculators/ltspice-simulator.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
